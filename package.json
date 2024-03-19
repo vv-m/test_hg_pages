@@ -2,6 +2,7 @@
   "name": "test_hg_pages",
   "version": "0.1.0",
   "homepage": "https://vv-m.github.io/test_hg_pages",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
